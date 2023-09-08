@@ -1,2 +1,2 @@
 # Devilman-Crybaby
-Gif
+*Adding gif to Readme.MD file*
